@@ -1,0 +1,5 @@
+?- lookup(john, DOB).
+DOB = date(1990, 5, 1).
+
+?- lookup(sue, DOB).
+DOB = date(1995, 8, 15).
