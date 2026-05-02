@@ -1,0 +1,6 @@
+?- teaching_subjects(john, Subject).
+Subject = math.
+
+?- taking_students(science, Student).
+Student = alice ;
+Student = bob2.
