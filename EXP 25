@@ -1,0 +1,2 @@
+?- solve(Actions).
+Actions = [walk_to_window, grasp].
