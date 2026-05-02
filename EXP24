@@ -1,0 +1,2 @@
+?- suggest_diet(diabetes, Diet).
+Diet = [apple, carrot, fish, spinach, almonds].
