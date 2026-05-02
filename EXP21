@@ -1,0 +1,8 @@
+?- move(3, left, right, center).
+Move top disk from left to right
+Move top disk from left to center
+Move top disk from right to center
+Move top disk from left to right
+Move top disk from center to left
+Move top disk from center to right
+Move top disk from left to right
