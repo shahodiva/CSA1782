@@ -1,0 +1,10 @@
+?- can_fly(eagle).
+true.
+
+?- can_fly(ostrich).
+false.
+
+?- bird(Bird, cannot_fly).
+Bird = ostrich ;
+Bird = penguin ;
+Bird = kiwi.
