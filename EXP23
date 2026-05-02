@@ -1,0 +1,5 @@
+?- mother(X, bob).
+X = pam.
+
+?- grandfather(X, jim).
+X = tom.
