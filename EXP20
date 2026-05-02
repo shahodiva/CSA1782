@@ -1,0 +1,9 @@
+?- planet_properties(earth, Type, Size, Temp, Pos).
+Type = rocky,
+Size = medium,
+Temp = temperate,
+Pos = third_closest.
+
+?- planet_properties(Name, gas_giant, _, _, _).
+Name = jupiter ;
+Name = saturn.
